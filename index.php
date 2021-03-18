@@ -67,3 +67,4 @@
 <li>As criptografias MD5, SHA256 e SHA512 podem ser descriptografadas aqui: <a href="https://crackstation.net/" target="_blank">Clique aqui</a></li>
 <li>A criptografia Base64 pode ser descriptografada aqui: <a href="https://www.base64decode.org/" target="_blank">Clique aqui</a></li>
 <li>Já as criptografias Bcrypt e ARGON2I não podem ser descriptografadas</li>
+<li>Repositório do projeto: <a href="https://github.com/AdrielCavalcante/CriptografiasPHP" target="_blank">GitHub</a></li>
