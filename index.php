@@ -47,7 +47,7 @@
       echo "<h4>Em MD5: $senhamd5</h4>";
 
       $senhasha256 = hash('sha256',$senha);
-      echo "<h4>Em SHA512: $senhasha256</h4>";
+      echo "<h4>Em SHA256: $senhasha256</h4>";
 
       $senhasha512 = hash('sha512',$senha);
       echo "<h4>Em SHA512: $senhasha512</h4>";
