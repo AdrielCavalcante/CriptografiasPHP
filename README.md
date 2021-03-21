@@ -1,6 +1,8 @@
 <h1 align="center"> Criptografias(hash) </h1>
 
 ### Linguagem de programaçao usada: ![PHP](https://img.shields.io/badge/-PHP-%236495ED?style=flat-square&logo=PHP&logoColor=ffffff)
+### Projeto hospedado no: ![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=flat-square&logo=Heroku&logocolor=C9C3E6)
+### Editor de texto usado: ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Utilizando criptografias com PHP
 * ### MD5
