@@ -17,6 +17,6 @@
 #### Passo a passo:
 - 1️⃣ Baixe o WampServer(pode ser o Xampp): https://www.wampserver.com/en/
 
-- 2️⃣ Abra o a pasta **www** e crie uma pasta chamada **SistemaLoginPHP**.
+- 2️⃣ Abra o a pasta **www** e crie uma pasta chamada **CriptografiasPHP**.
 
-- 3️⃣ Abra o Localhost pelo Wamp e insera na url, após o Localhost. "/SistemaLoginPHP"
+- 3️⃣ Abra o Localhost pelo Wamp e insera na url, após o Localhost. "/CriptografiasPHP"
